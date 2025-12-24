@@ -4,7 +4,7 @@
 ### 🧪 Software Tester | Manual & Automation Testing
 
 📍 Chennai, India  
-📧 rajeshkumar.m@hurix.ai  
+📧 rajesh190503@gmail.com  
 📞 +91 63740 43066  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajeshkumar-m-992227320)
