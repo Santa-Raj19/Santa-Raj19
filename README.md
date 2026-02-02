@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # 👋 Hi, I'm **Rajeshkumar M**
 ### 🧪 Software Tester | Manual & Automation Testing
@@ -164,5 +164,3 @@ I hereby declare that all the details mentioned above are true
 to the best of my knowledge.
 
 Thanks for visiting my GitHub profile!
-
-</div>
